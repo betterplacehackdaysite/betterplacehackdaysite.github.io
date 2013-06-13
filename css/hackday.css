@@ -1,0 +1,21 @@
+#homepage h1 {
+  margin-bottom: 0.5em
+}
+
+
+#collaborators {
+  text-align: center;
+}
+
+.hero-unit {
+  border-radius: 1.5em;
+}
+
+
+.btn-really-large {
+  padding: 15px 45px;
+  font-size: 25px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
