@@ -1,6 +1,11 @@
-#homepage h1 {
-  margin-bottom: 0.5em
+#homepage #description h1 {
+  margin-bottom: 0.5em;
 }
+
+#description h1, #description h2 {
+  text-align: center;
+}
+
 
 
 #collaborators {
@@ -19,3 +24,11 @@
   -moz-border-radius: 10px;
   border-radius: 10px;
 }
+
+
+/*bootstrap hacking */
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+  width: 1170px;
+}
+
+hr { border-width: 3px;}
