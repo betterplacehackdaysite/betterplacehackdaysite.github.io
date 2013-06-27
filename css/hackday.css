@@ -15,10 +15,23 @@
 
 #schedule h3, #schedule .time{
   text-align: center;
+  font-weight: bold;
 }
+#schedule h3 { margin-bottom: 0;}
+#schedule .time { margin-bottom: 1em;}
 
 .hero-unit {
   border-radius: 1.5em;
+}
+
+.navbar .pull-right {
+  font-weight: bold;
+  background-color: #91122d;
+  padding: 0 3em;
+}
+
+.navbar .pull-right a {
+  color: white;
 }
 
 
