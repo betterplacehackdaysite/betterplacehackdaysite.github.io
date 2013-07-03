@@ -27,6 +27,15 @@
   padding: 1em;
 }
 
+#contact .content {
+  text-align: center;
+}
+
+
+#sponsors div {
+  text-align: center
+}
+
 .hero-unit {
   border-radius: 1.5em;
 }
