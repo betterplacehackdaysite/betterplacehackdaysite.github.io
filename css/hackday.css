@@ -24,15 +24,20 @@
 .address {
   border-radius: 1em;
   background-color: #ecf0f1;
-  padding: 1em;
+  padding: 1em 2em;
 }
 
 #contact .content {
   text-align: center;
 }
 
+#organizers h4 { text-align: center}
 
-#sponsors div {
+#organizers_logos {
+  margin-top: 3em;
+}
+
+#organizers_logos div {
   text-align: center
 }
 
